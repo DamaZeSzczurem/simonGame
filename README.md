@@ -1,2 +1,2 @@
-# simonGame
+# simon Game
 Fun game
