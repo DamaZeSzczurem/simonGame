@@ -1,2 +1,2 @@
 # Simon Game
-Fun game
+Simple game. You can find live <a href=">HERE</a>
